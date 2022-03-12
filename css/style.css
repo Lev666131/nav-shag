@@ -37,11 +37,16 @@ background: #0d0e24
 .content{
 display: flex;
 margin-left: auto;
-
 position: absolute;
 width: 295px;
 height: 585px;
 top: 115px;
 background: #142330;
 
+}
+.nav{
+  margin-right: 10px;
+  color:#e8e7f5;
+  font-weight: bold;
+  font-size: 20px;
 }
